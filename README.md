@@ -60,8 +60,8 @@ steel-defect-detection-yolov8/
 Follow these steps to run the Streamlit application on your local machine:
 ### 1. Clone the Repository
 ```Bash
-git clone https://github.com/sayidmufaqih/steel-defect-detection-yolov8.git
-cd steel-defect-detection-yolov8
+git clone https://github.com/sayidmufaqih/steel-defect-detection-yolov11.git
+cd steel-defect-detection-yolov11
 ```
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
 ```Bash
