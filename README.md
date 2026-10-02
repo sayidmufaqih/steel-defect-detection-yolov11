@@ -59,6 +59,7 @@ steel-defect-detection-yolov8/
 ## ⚙️ Installation & Local Setup
 Follow these steps to run the Streamlit application on your local machine:
 ### 1. Clone the Repository
+Buka repositori di [GitHub Sayid Mufaqih](https://github.com/sayidmufaqih/steel-defect-detection-yolov11.git) atau jalankan perintah berikut di terminal:
 ```Bash
 git clone https://github.com/sayidmufaqih/steel-defect-detection-yolov11.git
 cd steel-defect-detection-yolov11
@@ -93,3 +94,9 @@ After executing the command, open your browser at http://localhost:8501.
 - Deep Learning Framework: PyTorch
 - Data Processing & Analytics: Pandas, Matplotlib, Scikit-Learn
 - Web Deployment: Streamlit
+
+## Kaggle Notebook
+The original exploratory and modeling work is also available on Kaggle:
+
+
+[View the Kaggle notebook](https://www.kaggle.com/code/sayidmufaqih/defect-detection)
